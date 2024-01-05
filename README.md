@@ -17,9 +17,9 @@ Take a look at the projects that I've worked on so far!
 - https://github.com/ParamD12/Lumos-Summarify
 - https://github.com/ParamD12/MinerGuide
 
-  ## 📫 Contact
+## 📫 Contact
 
-  You can reach out to me on my LinkedIn, or at my email.
+You can reach out to me on my LinkedIn, or at my email.
 
-  - https://www.linkedin.com/in/param-dhingana/
-  - pdhingana@gmail.com 
+- https://www.linkedin.com/in/param-dhingana/
+- pdhingana@gmail.com 
