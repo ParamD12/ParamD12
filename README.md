@@ -8,7 +8,7 @@
 
 ## 🔭 Current Endeavors
 - I'm currently pursuing my graduation, in the course B. Tech (Artificial Intelligence & Data Science).
-- And I'm also working on upskilling to find suitable roles in Data Analytics or Data Science
+- And I'm also working on upskilling to find suitable roles in Data Analytics or Data Science.
 
 ## 💻 Projects
 
