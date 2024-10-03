@@ -19,6 +19,7 @@ Take a look at the projects that I've worked on so far!
 - [Design Dreamer](https://github.com/ParamD12/DesignDreamer)
 - [Pizza Sales Data Analysis](https://github.com/ParamD12/Pizza-Sales-Data-Analysis)
 - [Hotel Booking Cancellations Analysis](https://github.com/ParamD12/Hotel-Cancellation-Analysis)
+- [Coffee Shop Sales Data Analysis](https://github.com/ParamD12/Coffee-Shop-Sales-Data-Analysis)
 
 ## 📫 Contact
 
